@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database files
+*.sqlite3
+
+# Log files
+*.log
+
+# Temporary files
+*.bak
+*.swp
+
+# Secret key file
+*.key
+
+# Environment variables file
+.env
+
+# Pipenv files
+Pipfile
+Pipfile.lock
+
+# VSCode directory
+.vscode/
+
+# macOS metadata files
+.DS_Store
+
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extension
+*.so
+
+# IDE-specific files
+.idea/
+
+# Node.js dependencies
+node_modules/
